@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects to get hands-on 
 - 📫 How to reach me [Linkdin](www.linkedin.com/in/eng-ahmat-td)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a 4th year Computer Enginnering student 
+- ⚡ Fun fact: I finished my undergraduate program in 2025!
 
 <!---
 Eng-ahmat/Eng-ahmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
